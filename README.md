@@ -9,7 +9,9 @@ Can edit feild through Magento Admin Panel.
 <br>
 <br>
 Will helpfull when export Products Data to Google Shopping, Pinterest, etc.
-
+<br>
+<br>
+<br>
 For easy get Category value of "Google Category" - added service `Service/GoogleCategoryByCategoryId.php`
 
 Added followings logic:
