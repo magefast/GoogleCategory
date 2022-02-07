@@ -1,4 +1,4 @@
-# GoogleCategory
+# Magento 2 extension. Strekoza_GoogleCategory
 Magento 2 extension. Add Category Attribute (field) - "Google Category"
 <br>
 <br>
