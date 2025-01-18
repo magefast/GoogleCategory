@@ -1,0 +1,20 @@
+{
+  "name": "strekoza/module-google-category",
+  "description": "Magento 2 extension. Add Category Attribute (field) - Google Category",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "magefast",
+      "email": "magefast@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Strekoza\\GoogleCategory\\": ""
+    }
+  }
+}
